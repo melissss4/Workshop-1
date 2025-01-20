@@ -2,7 +2,7 @@
 
 ##Workshop 1: 
 
-Current Sketch: https://editor.p5js.org/melisssa/full/3EK7JGzph 
+Current Sketch: [https://editor.p5js.org/melisssa/full/3EK7JGzph ](https://melissss4.github.io/Workshop-1/) 
 
 Definition Learnt in Workshop: Local variables are codes that can only be used inside the function.
 
